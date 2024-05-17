@@ -6,7 +6,7 @@ Inspired by the mixer in the Erica Synths x mki.edu line (but with added channel
 
 ## Features
 - Eurorack format (3U panel height = 133.4mm)
-- 8U width (about 40mm)
+- 8HP width (about 40mm)
 - 4 inputs with pan (L-R) and level adjustable
 - 2 outputs, line out and headphone out
 - Mostly SMD with a couple through hole parts
