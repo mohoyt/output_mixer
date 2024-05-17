@@ -2,9 +2,11 @@
 
 Inspired by the mixer in the Erica Synths x mki.edu line (but with added channels and SMD components)
 
-[![PCB back](img/pcb_back.jpeg "PCB back")](img/pcb_back.jpeg)
+[![Panel](img/panel.jpeg "Panel")](img/panel.jpeg)
 
 ## Features
+- Eurorack format (3U panel height = 133.4mm)
+- 8U width (about 40mm)
 - 4 inputs with pan (L-R) and level adjustable
 - 2 outputs, line out and headphone out
 - Mostly SMD with a couple through hole parts
@@ -17,3 +19,5 @@ Inspired by the mixer in the Erica Synths x mki.edu line (but with added channel
 All addressed in current version (v1.1). The overheating was a result of poor quality BD139 and BD140 that I had sourced. 
 
 [![PCB front](img/pcb_front.jpeg "PCB front")](img/pcb_front.jpeg)
+
+[![PCB back](img/pcb_back.jpeg "PCB back")](img/pcb_back.jpeg)
